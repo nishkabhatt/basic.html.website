@@ -1,3 +1,3 @@
 function ClickHello() {
-  alert("Hello"); 
+  alert("Sign up now!"); 
 }
